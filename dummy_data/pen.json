@@ -1,0 +1,52 @@
+[
+  {
+    "merk": "Faber-Castell",
+    "ukuran": "lunak",
+    "harga": 3000
+  },
+  {
+    "merk": "Staedtler",
+    "ukuran": "sedang",
+    "harga": 2500
+  },
+  {
+    "merk": "Pentel",
+    "ukuran": "tebal",
+    "harga": 3500
+  },
+  {
+    "merk": "BIC",
+    "ukuran": "sedang",
+    "harga": 2000
+  },
+  {
+    "merk": "Zebra",
+    "ukuran": "lunak",
+    "harga": 2800
+  },
+  {
+    "merk": "Uni-ball",
+    "ukuran": "sedang",
+    "harga": 3000
+  },
+  {
+    "merk": "Pilot",
+    "ukuran": "tebal",
+    "harga": 3200
+  },
+  {
+    "merk": "Koh-i-Noor",
+    "ukuran": "lunak",
+    "harga": 2700
+  },
+  {
+    "merk": "Stabilo",
+    "ukuran": "sedang",
+    "harga": 2300
+  },
+  {
+    "merk": "Muji",
+    "ukuran": "lunak",
+    "harga": 2500
+  }
+]

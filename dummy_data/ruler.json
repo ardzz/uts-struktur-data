@@ -1,0 +1,52 @@
+[
+  {
+    "merk": "Staedtler",
+    "ukuran": "15 cm",
+    "harga": 5000
+  },
+  {
+    "merk": "Faber-Castell",
+    "ukuran": "30 cm",
+    "harga": 8000
+  },
+  {
+    "merk": "Maped",
+    "ukuran": "20 cm",
+    "harga": 3500
+  },
+  {
+    "merk": "Casio",
+    "ukuran": "50 cm",
+    "harga": 10000
+  },
+  {
+    "merk": "Rotring",
+    "ukuran": "40 cm",
+    "harga": 12000
+  },
+  {
+    "merk": "Stabilo",
+    "ukuran": "25 cm",
+    "harga": 4500
+  },
+  {
+    "merk": "Pentel",
+    "ukuran": "35 cm",
+    "harga": 6000
+  },
+  {
+    "merk": "Koh-i-Noor",
+    "ukuran": "45 cm",
+    "harga": 9000
+  },
+  {
+    "merk": "Maped Helix",
+    "ukuran": "60 cm",
+    "harga": 15000
+  },
+  {
+    "merk": "Artline",
+    "ukuran": "55 cm",
+    "harga": 13000
+  }
+]

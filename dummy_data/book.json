@@ -1,0 +1,52 @@
+[
+  {
+    "merk": "Stabilo",
+    "ukuran": "kecil",
+    "harga": 5000
+  },
+  {
+    "merk": "Faber-Castell",
+    "ukuran": "sedang",
+    "harga": 10000
+  },
+  {
+    "merk": "Pilot",
+    "ukuran": "besar",
+    "harga": 15000
+  },
+  {
+    "merk": "Pentel",
+    "ukuran": "kecil",
+    "harga": 4000
+  },
+  {
+    "merk": "Zebra",
+    "ukuran": "sedang",
+    "harga": 8000
+  },
+  {
+    "merk": "Muji",
+    "ukuran": "besar",
+    "harga": 12000
+  },
+  {
+    "merk": "Sakura",
+    "ukuran": "kecil",
+    "harga": 6000
+  },
+  {
+    "merk": "Artline",
+    "ukuran": "sedang",
+    "harga": 9000
+  },
+  {
+    "merk": "Uni-ball",
+    "ukuran": "besar",
+    "harga": 11000
+  },
+  {
+    "merk": "Sharpie",
+    "ukuran": "kecil",
+    "harga": 7000
+  }
+]
